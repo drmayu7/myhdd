@@ -1,4 +1,4 @@
-id,facility_name,facility_shortname,address_1,address_2,city,state,postcode,facility_code,created_at,active
-1,Hospital Sultanah Nur Zahirah,HSNZ,Jalan Sultan Mahmud,,Kuala Terengganu,Terengganu,20400,11-207011,2024-09-18 09:48:13.362448+08,true
-3,Hospital Sungai Buloh,HSB,Jalan Sultan Mahmud,,Kuala Terengganu,Terengganu,20400,11-207010,2024-09-18 09:49:25.511385+08,true
-4,Hospital Tuanku Ampuan Rahimah,HTAR,Jalan Sultan Mahmud,,Kuala Terengganu,Terengganu,20400,11-207012,2024-09-18 14:49:22.427142+08,true
+facility_code,facility_name,facility_shortname,address_1,address_2,city,state,postcode,created_at,active
+11-207011,Hospital Sultanah Nur Zahirah,HSNZ,Jalan Sultan Mahmud,,Kuala Terengganu,Terengganu,20400,2024-09-18 09:48:13.362448+08,true
+11-207010,Hospital Sungai Buloh,HSB,Jalan Sultan Mahmud,,Kuala Terengganu,Terengganu,20400,2024-09-18 09:49:25.511385+08,true
+11-207012,Hospital Tuanku Ampuan Rahimah,HTAR,Jalan Sultan Mahmud,,Kuala Terengganu,Terengganu,20400,2024-09-18 14:49:22.427142+08,true
